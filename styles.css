@@ -10,10 +10,9 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 80px; //original was 80px
+  padding: 80px; /*original was 80px */
   text-align: center;
-  text-allign: center;
-  background: #e7e700; //original was #1abc9c
+  background: #e7e700; /*original was #1abc9c */
   color: white;
 }
 
