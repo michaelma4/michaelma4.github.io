@@ -12,6 +12,7 @@ body {
 .header {
   padding: 80px; //original was 80px
   text-align: center;
+  text-allign: center;
   background: #e7e700; //original was #1abc9c
   color: white;
 }
