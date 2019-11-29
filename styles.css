@@ -69,8 +69,8 @@ body {
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 .main {
-  -ms-flex: 15%; /* IE10 */ /* original was 30% */
-  flex: 15%; /* original was 30% */
+  -ms-flex: 70%; /* IE10 */ /* original was 30% */
+  flex: 70%; /* original was 30% */
   background-color: #f1f1f1;
   padding: 20px;
 }
