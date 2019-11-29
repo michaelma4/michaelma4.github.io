@@ -68,15 +68,15 @@ body {
 
 /* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
-.side {
+.main {
   -ms-flex: 15%; /* IE10 */ /* original was 30% */
-  flex: 15%; /* original was 15% */
+  flex: 15%; /* original was 30% */
   background-color: #f1f1f1;
   padding: 20px;
 }
 
 /* Main column */
-.main {   
+.side {   
   -ms-flex: 70%; /* IE10 */
   flex: 70%;
   background-color: white;
